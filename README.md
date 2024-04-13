@@ -19,6 +19,7 @@ Se encuentra en **Alcorcón, Madrid**
 - Autocaravana de 2015
 - 128.000 kilometros
 - ITV hasta Noviembre 2025
+- Etiqueta B (Amarilla), no lleva AdBlue
 - Muchos extras: Control de velocidad, airbad de copiloto, ABS, ESP, Hill holder, Traction+, Hill Control, luces antiniebla
 - Aire acondicionado en cabina
 - Cámara trasera
@@ -69,6 +70,7 @@ Se encuentra en **Alcorcón, Madrid**
 - Para la ITV, le añado una luz de gálibo extra para que no me pongan problemas, luego la quito
 - Tapacubos fueron robados, no los he sustituido
 - El anterior propietario tuvo problemas con el escalón, nosotros no hemos tenido ninguno, aunque también es cierto que lo usamos poco
+- El pasacables de la placa solar tiene una grieta, está sellada, no entra agua.
 
 ## Fotos
 ![](/photos/foto1.jpg)
