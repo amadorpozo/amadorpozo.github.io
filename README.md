@@ -65,6 +65,8 @@ Se encuentra en **Alcorcón, Madrid**
 - Las pastillas de freno rozan cuando se calientan mucho, por ejemplo bajando un puerto. Al frenar se retraen pero al rato vuelven a rozar. Al principio era mucho peor, pero se mejoró vaciando un poco el líquido de frenos.
 - La mesa tiene la pata y los anchajes a la pared regular, venden repuestos pero de momento aguanta
 - La manilla de la puerta del baño está regular también, se incluye repuesto
+- La ventana del salón se atasca muchas veces al cerrar. Hay que hacer trucos para cerrarla. 
+- No tengo copia de la llave del depósito de aguas limpias. 
 - El sintonizador de TV satélite es para el Astra 19, coge canales alemanes. Habría que hacer algo o cambiarlo para coger otros satélite con canales en español. Nosotros no vemos la TV
 - La electroválvula del WC también pierde alguna gota
 - Para la ITV, le añado una luz de gálibo extra para que no me pongan problemas, luego la quito
