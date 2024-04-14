@@ -73,6 +73,19 @@ Se encuentra en **Alcorcón, Madrid**
 - Tapacubos fueron robados, no los he sustituido
 - El anterior propietario tuvo problemas con el escalón, nosotros no hemos tenido ninguno, aunque también es cierto que lo usamos poco
 - El pasacables de la placa solar tiene una grieta, está sellada, no entra agua.
+- La tabla que hace el doble suelo en el compartimento del gas está algo dañada. Si se rompiese del todo, es fácil y barato de sustituir, simplemente es una tabla sobre unos apoyos.
+- El piloto trasero izquierdo tiene un tornillo que no es el original. 
+- Hay desperfectos mínimos en pintura y carrocería, los más destacables son: puerta copiloto, pintura rascada; marcas de roce en esquina trasera izquierda; defectos en pintura en la zona frontal inferior por gravilla o similar; alguna marca por roce por ramas. Hay seguro algo más, pero en mi opinión el estado exterior es bastante bueno.
+
+## Taller
+El libro de servicio no estaba rellenado cuando yo la compré. 
+- Dic 2020: revisión completa pre-compra. Cambio de aceite y filtro. Pastillas y discos traseros. Luces de matrícula.
+- Julio 2022: aceite, todos los filtros, discos y pastillas delanteros, calentadores completos, DISTRIBUCIÓN completa (todas las correas y bomba de agua).
+- Octubre 2023: aceite y filtros. Se purga el líquido de frenos. 
+
+Todo esto tengo las facturas. 
+
+En general no se aprecian óxidos destacables, exterior e interior en condiciones bastante buenas, suspensiones ok, motor no ha dado nunca ningún problema, y el aire acondicionado enfría bastante. No se esperan gastos de taller en los próximos años. 
 
 ## Fotos
 ![](/photos/foto1.jpg)
