@@ -1,5 +1,8 @@
 # Autocaravana capuchina 6m Sun Living Ducato 2015
 
+
+![](/photos/foto1.jpg)
+
 ## Resumen
 Marca: Sun Living (grupo Adria)
 
@@ -13,6 +16,7 @@ Tiene bastantes kilómetros pero aún tiene mucho que ofrecer, sin ningún probl
 **Precio: 36500€**
 
 Se encuentra en **Alcorcón, Madrid**
+
 
 ## Vehículo
 - Fiat Ducato 2.3 Multijet de 130CV
@@ -87,7 +91,6 @@ Todo esto tengo las facturas.
 En general no se aprecian óxidos destacables, exterior e interior en condiciones bastante buenas, suspensiones ok, motor no ha dado nunca ningún problema, y el aire acondicionado enfría bastante. No se esperan gastos de taller en los próximos años. 
 
 ## Fotos
-![](/photos/foto1.jpg)
 ![](/photos/foto2.jpg)
 ![](/photos/foto3.jpg)
 ![](/photos/interior1.jpg)
