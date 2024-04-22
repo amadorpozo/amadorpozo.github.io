@@ -65,19 +65,20 @@ Se encuentra en **Alcorcón, Madrid**
 
 ## Listado de problemas conocidos
 - Tapicería tiene parte de polipiel que salió defectuosa en toda la serie y se empezó a pelar pasada la garantía. Hay que reemplazarla. No he preferido no hacerlo para que el siguiente propietario lo haga a su gusto
-- Tras bajadas muy largas, a veces las pastillas de freno rozan con el disco y hacen un ligero sonido de roce. Al frenar recuperan su posición y se pasa un rato
+- Tras bajadas muy largas, a veces las pastillas de freno rozan con el disco y hacen un ligero sonido de roce. Al frenar recuperan su posición un tiempo. 
+- Relacionado con lo anterior, a veces al tomar curvas se oye algun ruido también. En el taller me dicen que es normal y que la revisión se ve todo correcto. 
 - La mesa tiene la pata y los anchajes a la pared regular, venden repuestos pero de momento aguanta
 - La manilla de la puerta del baño está regular también, se incluye ya el repuesto
 - La ventana del salón se atasca muchas veces al cerrar. Hay que hacer un truco para cerrarla
 - No tengo copia de la llave del depósito de aguas limpias, se puede comprar otro pero tampoco lo veo necesario
 - El sintonizador de TV satélite es para el Astra 19, coge canales alemanes. Habría que hacer algo o cambiarlo para coger otros satélite con canales en español. Nosotros no vemos la TV
-- El lector de DVD de la televisión creo que no funciona bien
+- El lector de DVD de la televisión creo que no funciona
 - Para la ITV, le añado una luz de gálibo extra para que no me pongan problemas, luego la quito
 - Tapacubos fueron robados, no los he sustituido
 - El pasacables de la placa solar tiene una grieta, está sellada, no entra agua.
 - La tabla que hace el doble suelo en el compartimento del gas está algo dañada. Si se rompiese del todo, es fácil y barato de sustituir, simplemente es una tabla sobre unos apoyos.
 - El piloto trasero izquierdo tiene un tornillo que no es el original. 
-- Hay desperfectos mínimos en pintura y carrocería, los más destacables son: puerta copiloto, pintura rascada; marcas de roce en esquina trasera izquierda; defectos en pintura en la zona frontal inferior por gravilla o roces al aparcar; alguna marca por roce por ramas en lateral y techo. Hay seguro algo más, pero en mi opinión el estado exterior es bastante bueno.
+- Hay desperfectos mínimos en pintura y carrocería, los más destacables son: puerta copiloto, pintura rascada; marcas de roce en esquina trasera izquierda; defectos en pintura en la zona frontal inferior por gravilla o toques al aparcar; alguna marca por roce por ramas en lateral y techo. Hay seguro algo más, pero en mi opinión el estado exterior es bastante bueno.
 - En el interior hay agujeros de tornillo de cosas que se han desmontado, marcas de uso, y similar, lo normal para un vehículo de 9 años. 
 
 ## Taller
